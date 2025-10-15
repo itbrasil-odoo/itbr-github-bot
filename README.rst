@@ -1,6 +1,6 @@
-##############
+####################
 IT Brasil GitHub bot
-##############
+####################
 
 .. image:: https://results.pre-commit.ci/badge/github/itbrasil-odoo/itbr-github-bot/master.svg
    :target: https://results.pre-commit.ci/latest/github/itbrasil-odoo/itbr-github-bot/master
