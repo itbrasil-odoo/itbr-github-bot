@@ -11,6 +11,7 @@ setup(
     name="itbr-github-bot",
     use_scm_version=True,
     long_description=long_description,
+    long_description_content_type="text/x-rst",
     author="IT Brasil — Soluções Corporativas",
     author_email="info@itbrasil.com.br",
     url="https://github.com/itbrasil-odoo/itbr-github-bot",
