@@ -8,12 +8,12 @@ with open(os.path.join(here, "README.rst"), encoding="utf-8") as f:
 
 
 setup(
-    name="oca-github-bot",
+    name="itbr-github-bot",
     use_scm_version=True,
     long_description=long_description,
-    author="Odoo Community Association (OCA)",
-    author_email="info@odoo-community.org",
-    url="https://github.com/OCA/oca-github-bot",
+    author="IT Brasil — Soluções Corporativas",
+    author_email="info@itbrasil.com.br",
+    url="https://github.com/itbrasil-odoo/itbr-github-bot",
     python_requires="==3.12.*",
     setup_requires=["setuptools_scm"],
     packages=find_packages("src"),

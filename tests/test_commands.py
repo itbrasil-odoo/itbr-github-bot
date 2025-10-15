@@ -3,7 +3,7 @@
 
 import pytest
 
-from oca_github_bot.commands import (
+from itbr_github_bot.commands import (
     InvalidCommandError,
     InvalidOptionsError,
     OptionsError,

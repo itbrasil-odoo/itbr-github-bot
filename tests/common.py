@@ -4,7 +4,7 @@
 import subprocess
 from contextlib import contextmanager
 
-from oca_github_bot import config
+from itbr_github_bot import config
 
 
 class EventMock:
