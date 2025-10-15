@@ -2,7 +2,6 @@
 # Distributed under the MIT License (http://opensource.org/licenses/MIT).
 
 import pytest
-
 from itbr_github_bot.tasks.migration_issue_bot import (
     _check_line_issue,
     _create_or_find_branch_milestone,

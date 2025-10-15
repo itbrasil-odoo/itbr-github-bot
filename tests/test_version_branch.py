@@ -2,7 +2,6 @@
 # Distributed under the MIT License (http://opensource.org/licenses/MIT).
 
 import pytest
-
 from itbr_github_bot.version_branch import (
     is_main_branch_bot_branch,
     is_merge_bot_branch,

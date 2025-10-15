@@ -3,7 +3,6 @@
 import shutil
 
 import pytest
-
 from itbr_github_bot.tasks.mention_maintainer import mention_maintainer
 
 from .common import make_addon, set_config

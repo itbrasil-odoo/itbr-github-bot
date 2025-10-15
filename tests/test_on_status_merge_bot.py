@@ -2,7 +2,6 @@
 # Distributed under the MIT License (http://opensource.org/licenses/MIT).
 
 import pytest
-
 from itbr_github_bot.version_branch import make_merge_bot_branch
 from itbr_github_bot.webhooks import on_status_merge_bot
 

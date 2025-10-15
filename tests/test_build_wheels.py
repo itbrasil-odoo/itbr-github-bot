@@ -6,7 +6,6 @@ import subprocess
 import textwrap
 
 import pytest
-
 from itbr_github_bot.build_wheels import (
     build_and_publish_metapackage_wheel,
     build_and_publish_wheels,

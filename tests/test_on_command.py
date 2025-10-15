@@ -2,7 +2,6 @@
 # Distributed under the MIT License (http://opensource.org/licenses/MIT).
 
 import pytest
-
 from itbr_github_bot.webhooks import on_command
 
 from .common import EventMock

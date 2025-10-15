@@ -4,7 +4,6 @@
 from pathlib import Path
 
 import pytest
-
 from itbr_github_bot.utils import cmd_to_str, hide_secrets, retry_on_exception
 
 from .common import set_config

@@ -1,7 +1,6 @@
 # Distributed under the MIT License (http://opensource.org/licenses/MIT).
 
 import pytest
-
 from itbr_github_bot.webhooks import on_pr_green_label_needs_review
 
 from .common import EventMock

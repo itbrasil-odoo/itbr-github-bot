@@ -4,7 +4,6 @@
 import subprocess
 
 import pytest
-
 from itbr_github_bot.manifest import user_can_push
 
 from .common import commit_addon, make_addon

@@ -5,7 +5,6 @@ import subprocess
 
 import pytest
 from celery.exceptions import Retry
-
 from itbr_github_bot.github import git_push_if_needed
 
 

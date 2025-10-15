@@ -5,7 +5,6 @@ import subprocess
 
 import github3
 import pytest
-
 from itbr_github_bot import config
 
 

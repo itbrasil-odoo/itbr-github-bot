@@ -4,7 +4,6 @@ import tempfile
 from pathlib import Path
 
 import pytest
-
 from itbr_github_bot.pypi import TwineDistPublisher, exists_on_index
 
 

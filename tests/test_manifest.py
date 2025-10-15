@@ -4,7 +4,6 @@
 import subprocess
 
 import pytest
-
 from itbr_github_bot.github import git_get_head_sha
 from itbr_github_bot.manifest import (
     NoManifestFound,
